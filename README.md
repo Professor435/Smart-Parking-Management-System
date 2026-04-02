@@ -54,4 +54,6 @@ Smooth transitions between sections
 Working search and filters throughout
 All buttons, forms, and interactions are fully functional with realistic data simulation and state management!
 
+#SmartParking #IoT #ParkingManagement #ComputerVision #LicensePlateRecognition #Python #OpenCV #FullStack #Django #React #SmartCity #TrafficManagement #RealTimeMonitoring #Database #ReservationSystem #Automation #WebApp #MobileResponsive #OpenSource #UrbanTech
+
 for more contact us (professorshami435@gmail.com)
